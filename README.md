@@ -1,9 +1,13 @@
+### Hi there 👋  [![](https://visitcount.itsvg.in/api?id=Arikrishnan01&icon=0&color=0)](https://visitcount.itsvg.in)
+
+- 🔭 I’m currently working on **E-Commerce Project**<br>
+- 🌱 I’m currently learning **Redux**<br>
+- 💬 Ask me about **MERN**<br>
+- 📫 How to reach me: krishari11052001@gmail.com<br>
+- ⚡ Fun fact I am **Funny**
+
 # 💫 About Me:
-🔭 I’m currently working on **E-Commerce Project**<br>
-🌱 I’m currently learning **Redux**<br>
-💬 Ask me about **MERN**<br>
-📫 How to reach me: krishari11052001@gmail.com<br>
-⚡ Fun fact I am **Funny**
+  I am a recent computer science graduate from Thiruvalluvar University. I've equipped myself with the skills of a Full Stack Developer through a MERN Stack certificate program at Guvi IITM. During my educational journey, I have successfully completed four full-stack projects that have enriched my portfolio
 
 
 ## 🌐 Socials:
